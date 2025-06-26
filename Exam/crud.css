@@ -1,0 +1,17 @@
+
+  body {
+    background: linear-gradient(to right, #b693ad, #c190ae);
+  }
+body {
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: #507bcb;
+}
+
+form .form-control {
+  border-radius: 0.5rem;
+}
+
