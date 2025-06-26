@@ -1,6 +1,6 @@
 
   body {
-    background: linear-gradient(to right, #b693ad, #c190ae);
+    background: linear-gradient(to right, #90bacc, #96b2c0);
   }
 body {
   font-family: Arial, sans-serif;
@@ -8,7 +8,7 @@ body {
 
 h2 {
   text-align: center;
-  color: #507bcb;
+  color: #000204;
 }
 
 form .form-control {
